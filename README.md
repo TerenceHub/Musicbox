@@ -11,5 +11,5 @@ Parts:
 - 2 buttons (to trigger music playing)
 - 8 LEDs on Christmas Tree
 
-Thanks to TMRpcm library
+Thanks to TMRpcm library,
 url: https://github.com/TMRh20/TMRpcm.git
