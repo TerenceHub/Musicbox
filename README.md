@@ -13,3 +13,6 @@ Parts:
 
 Thanks to TMRpcm library,
 url: https://github.com/TMRh20/TMRpcm.git
+
+Real project operation video, refer to
+http://youtu.be/OJYCPoJP1tI
